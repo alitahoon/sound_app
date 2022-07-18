@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sound_app</string>
+    <string name="spalsh_header">Playme.</string>
+    <string name="spalsh_para1">we are the second most popular place in the world to listen to prodcasts-and growing so fast.</string>
+    <string name="spalsh_para2">choose your favourites sounds and start litening..</string>
+    <string name="spalsh_para3">Waht are you waiting for ?! go on now !</string>
+    <string name="notification">notification</string>
+    <string name="search">search</string>
+    <string name="podcast">podcast</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
